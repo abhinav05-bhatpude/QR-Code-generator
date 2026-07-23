@@ -29,3 +29,17 @@ qr-code-generator/
 │── script.js
 └── README.md
 ```
+
+## 🚧 Challenges Faced
+
+- Handling empty user input
+- Updating the QR code dynamically
+- Keeping the layout responsive
+- Managing API responses efficiently
+
+## ✅ Solutions
+
+- Added input validation
+- Used JavaScript to update the image source dynamically
+- Applied responsive CSS techniques
+- Simplified the application logic for better readability
