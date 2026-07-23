@@ -19,3 +19,13 @@ The objective of this project is to build a simple and interactive QR Code Gener
 - Updating elements dynamically
 - Form validation techniques
 - Writing cleaner and reusable JavaScript code
+
+- ## 📂 Project Structure
+
+```
+qr-code-generator/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
