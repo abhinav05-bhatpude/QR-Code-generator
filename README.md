@@ -1,20 +1,3 @@
-# QR Code Generator
+## 🎯 Project Objective
 
-A simple QR Code Generator built using HTML, CSS, and JavaScript.
-
-## About
-
-This project allows users to generate QR codes instantly by entering text or URLs. It provides a clean and user-friendly interface.
-
-## Features
-
-- Generate QR codes instantly
-- Supports text and URLs
-- Clean UI
-- Responsive design
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
+The objective of this project is to build a simple and interactive QR Code Generator that converts user input into QR codes instantly. It focuses on practicing DOM manipulation, event handling, and integrating external QR code generation services using JavaScript.
