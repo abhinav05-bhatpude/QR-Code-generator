@@ -10,3 +10,12 @@ The objective of this project is to build a simple and interactive QR Code Gener
 - Input validation for empty values
 - Clean and minimal design
 - Fast and lightweight application
+
+## 📚 What I Learned
+
+- DOM manipulation using JavaScript
+- Handling user input with event listeners
+- Working with QR code generation APIs
+- Updating elements dynamically
+- Form validation techniques
+- Writing cleaner and reusable JavaScript code
