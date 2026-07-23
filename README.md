@@ -43,3 +43,12 @@ qr-code-generator/
 - Used JavaScript to update the image source dynamically
 - Applied responsive CSS techniques
 - Simplified the application logic for better readability
+
+- ## 🚀 Future Improvements
+
+- Download generated QR codes
+- QR code customization
+- Generate QR codes with different sizes
+- QR history feature
+- Dark mode support
+- Copy QR image functionality
